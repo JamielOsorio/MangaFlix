@@ -1,2 +1,0 @@
-# MangaFlix
-OOP Final exam
